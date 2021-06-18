@@ -1,0 +1,890 @@
+[
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/meson-generated_parser.c.o -MF libxkbcommon.so.0.0.0.p/meson-generated_parser.c.o.d -o libxkbcommon.so.0.0.0.p/meson-generated_parser.c.o -c libxkbcommon.so.0.0.0.p/parser.c",
+    "file": "libxkbcommon.so.0.0.0.p/parser.c",
+    "output": "libxkbcommon.so.0.0.0.p/meson-generated_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_compose_parser.c.o -MF libxkbcommon.so.0.0.0.p/src_compose_parser.c.o.d -o libxkbcommon.so.0.0.0.p/src_compose_parser.c.o -c ../src/compose/parser.c",
+    "file": "../src/compose/parser.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_compose_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_compose_paths.c.o -MF libxkbcommon.so.0.0.0.p/src_compose_paths.c.o.d -o libxkbcommon.so.0.0.0.p/src_compose_paths.c.o -c ../src/compose/paths.c",
+    "file": "../src/compose/paths.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_compose_paths.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_compose_state.c.o -MF libxkbcommon.so.0.0.0.p/src_compose_state.c.o.d -o libxkbcommon.so.0.0.0.p/src_compose_state.c.o -c ../src/compose/state.c",
+    "file": "../src/compose/state.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_compose_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_compose_table.c.o -MF libxkbcommon.so.0.0.0.p/src_compose_table.c.o.d -o libxkbcommon.so.0.0.0.p/src_compose_table.c.o -c ../src/compose/table.c",
+    "file": "../src/compose/table.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_compose_table.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_action.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_action.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_action.c.o -c ../src/xkbcomp/action.c",
+    "file": "../src/xkbcomp/action.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_action.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_ast-build.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_ast-build.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_ast-build.c.o -c ../src/xkbcomp/ast-build.c",
+    "file": "../src/xkbcomp/ast-build.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_ast-build.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_compat.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_compat.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_compat.c.o -c ../src/xkbcomp/compat.c",
+    "file": "../src/xkbcomp/compat.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_compat.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_expr.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_expr.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_expr.c.o -c ../src/xkbcomp/expr.c",
+    "file": "../src/xkbcomp/expr.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_expr.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_include.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_include.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_include.c.o -c ../src/xkbcomp/include.c",
+    "file": "../src/xkbcomp/include.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_include.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_keycodes.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_keycodes.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_keycodes.c.o -c ../src/xkbcomp/keycodes.c",
+    "file": "../src/xkbcomp/keycodes.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_keycodes.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap.c.o -c ../src/xkbcomp/keymap.c",
+    "file": "../src/xkbcomp/keymap.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap-dump.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap-dump.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap-dump.c.o -c ../src/xkbcomp/keymap-dump.c",
+    "file": "../src/xkbcomp/keymap-dump.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_keymap-dump.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_keywords.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_keywords.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_keywords.c.o -c ../src/xkbcomp/keywords.c",
+    "file": "../src/xkbcomp/keywords.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_keywords.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_rules.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_rules.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_rules.c.o -c ../src/xkbcomp/rules.c",
+    "file": "../src/xkbcomp/rules.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_rules.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_scanner.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_scanner.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_scanner.c.o -c ../src/xkbcomp/scanner.c",
+    "file": "../src/xkbcomp/scanner.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_scanner.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_symbols.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_symbols.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_symbols.c.o -c ../src/xkbcomp/symbols.c",
+    "file": "../src/xkbcomp/symbols.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_symbols.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_types.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_types.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_types.c.o -c ../src/xkbcomp/types.c",
+    "file": "../src/xkbcomp/types.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_types.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_vmod.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_vmod.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_vmod.c.o -c ../src/xkbcomp/vmod.c",
+    "file": "../src/xkbcomp/vmod.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_vmod.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_xkbcomp_xkbcomp.c.o -MF libxkbcommon.so.0.0.0.p/src_xkbcomp_xkbcomp.c.o.d -o libxkbcommon.so.0.0.0.p/src_xkbcomp_xkbcomp.c.o -c ../src/xkbcomp/xkbcomp.c",
+    "file": "../src/xkbcomp/xkbcomp.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_xkbcomp_xkbcomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_atom.c.o -MF libxkbcommon.so.0.0.0.p/src_atom.c.o.d -o libxkbcommon.so.0.0.0.p/src_atom.c.o -c ../src/atom.c",
+    "file": "../src/atom.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_context.c.o -MF libxkbcommon.so.0.0.0.p/src_context.c.o.d -o libxkbcommon.so.0.0.0.p/src_context.c.o -c ../src/context.c",
+    "file": "../src/context.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_context.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_context-priv.c.o -MF libxkbcommon.so.0.0.0.p/src_context-priv.c.o.d -o libxkbcommon.so.0.0.0.p/src_context-priv.c.o -c ../src/context-priv.c",
+    "file": "../src/context-priv.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_context-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_keysym.c.o -MF libxkbcommon.so.0.0.0.p/src_keysym.c.o.d -o libxkbcommon.so.0.0.0.p/src_keysym.c.o -c ../src/keysym.c",
+    "file": "../src/keysym.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_keysym.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_keysym-utf.c.o -MF libxkbcommon.so.0.0.0.p/src_keysym-utf.c.o.d -o libxkbcommon.so.0.0.0.p/src_keysym-utf.c.o -c ../src/keysym-utf.c",
+    "file": "../src/keysym-utf.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_keysym-utf.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_keymap.c.o -MF libxkbcommon.so.0.0.0.p/src_keymap.c.o.d -o libxkbcommon.so.0.0.0.p/src_keymap.c.o -c ../src/keymap.c",
+    "file": "../src/keymap.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_keymap-priv.c.o -MF libxkbcommon.so.0.0.0.p/src_keymap-priv.c.o.d -o libxkbcommon.so.0.0.0.p/src_keymap-priv.c.o -c ../src/keymap-priv.c",
+    "file": "../src/keymap-priv.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_keymap-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_state.c.o -MF libxkbcommon.so.0.0.0.p/src_state.c.o.d -o libxkbcommon.so.0.0.0.p/src_state.c.o -c ../src/state.c",
+    "file": "../src/state.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_text.c.o -MF libxkbcommon.so.0.0.0.p/src_text.c.o.d -o libxkbcommon.so.0.0.0.p/src_text.c.o -c ../src/text.c",
+    "file": "../src/text.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_text.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_utf8.c.o -MF libxkbcommon.so.0.0.0.p/src_utf8.c.o.d -o libxkbcommon.so.0.0.0.p/src_utf8.c.o -c ../src/utf8.c",
+    "file": "../src/utf8.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_utf8.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon.so.0.0.0.p/src_utils.c.o -MF libxkbcommon.so.0.0.0.p/src_utils.c.o.d -o libxkbcommon.so.0.0.0.p/src_utils.c.o -c ../src/utils.c",
+    "file": "../src/utils.c",
+    "output": "libxkbcommon.so.0.0.0.p/src_utils.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_x11_keymap.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_x11_keymap.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_x11_keymap.c.o -c ../src/x11/keymap.c",
+    "file": "../src/x11/keymap.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_x11_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_x11_state.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_x11_state.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_x11_state.c.o -c ../src/x11/state.c",
+    "file": "../src/x11/state.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_x11_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_x11_util.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_x11_util.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_x11_util.c.o -c ../src/x11/util.c",
+    "file": "../src/x11/util.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_x11_util.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_context-priv.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_context-priv.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_context-priv.c.o -c ../src/context-priv.c",
+    "file": "../src/context-priv.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_context-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_keymap-priv.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_keymap-priv.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_keymap-priv.c.o -c ../src/keymap-priv.c",
+    "file": "../src/keymap-priv.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_keymap-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11.so.0.0.0.p -I. -I.. -I../src -I../include -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11.so.0.0.0.p/src_atom.c.o -MF libxkbcommon-x11.so.0.0.0.p/src_atom.c.o.d -o libxkbcommon-x11.so.0.0.0.p/src_atom.c.o -c ../src/atom.c",
+    "file": "../src/atom.c",
+    "output": "libxkbcommon-x11.so.0.0.0.p/src_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbregistry.so.0.0.0.p -I. -I.. -I../src -I../include -I/usr/include/libxml2 -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbregistry.so.0.0.0.p/src_registry.c.o -MF libxkbregistry.so.0.0.0.p/src_registry.c.o.d -o libxkbregistry.so.0.0.0.p/src_registry.c.o -c ../src/registry.c",
+    "file": "../src/registry.c",
+    "output": "libxkbregistry.so.0.0.0.p/src_registry.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbregistry.so.0.0.0.p -I. -I.. -I../src -I../include -I/usr/include/libxml2 -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbregistry.so.0.0.0.p/src_utils.c.o -MF libxkbregistry.so.0.0.0.p/src_utils.c.o.d -o libxkbregistry.so.0.0.0.p/src_utils.c.o -c ../src/utils.c",
+    "file": "../src/utils.c",
+    "output": "libxkbregistry.so.0.0.0.p/src_utils.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbregistry.so.0.0.0.p -I. -I.. -I../src -I../include -I/usr/include/libxml2 -fvisibility=hidden -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbregistry.so.0.0.0.p/src_util-list.c.o -MF libxkbregistry.so.0.0.0.p/src_util-list.c.o.d -o libxkbregistry.so.0.0.0.p/src_util-list.c.o -c ../src/util-list.c",
+    "file": "../src/util-list.c",
+    "output": "libxkbregistry.so.0.0.0.p/src_util-list.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibtools-internal.a.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libtools-internal.a.p/tools_tools-common.c.o -MF libtools-internal.a.p/tools_tools-common.c.o.d -o libtools-internal.a.p/tools_tools-common.c.o -c ../tools/tools-common.c",
+    "file": "../tools/tools-common.c",
+    "output": "libtools-internal.a.p/tools_tools-common.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli.p/tools_xkbcli.c.o -MF xkbcli.p/tools_xkbcli.c.o.d -o xkbcli.p/tools_xkbcli.c.o -c ../tools/xkbcli.c",
+    "file": "../tools/xkbcli.c",
+    "output": "xkbcli.p/tools_xkbcli.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-compile-keymap.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-compile-keymap.p/tools_compile-keymap.c.o -MF xkbcli-compile-keymap.p/tools_compile-keymap.c.o.d -o xkbcli-compile-keymap.p/tools_compile-keymap.c.o -c ../tools/compile-keymap.c",
+    "file": "../tools/compile-keymap.c",
+    "output": "xkbcli-compile-keymap.p/tools_compile-keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/meson-generated_parser.c.o -MF compile-keymap.p/meson-generated_parser.c.o.d -o compile-keymap.p/meson-generated_parser.c.o -c compile-keymap.p/parser.c",
+    "file": "compile-keymap.p/parser.c",
+    "output": "compile-keymap.p/meson-generated_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/tools_compile-keymap.c.o -MF compile-keymap.p/tools_compile-keymap.c.o.d -o compile-keymap.p/tools_compile-keymap.c.o -c ../tools/compile-keymap.c",
+    "file": "../tools/compile-keymap.c",
+    "output": "compile-keymap.p/tools_compile-keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_compose_parser.c.o -MF compile-keymap.p/src_compose_parser.c.o.d -o compile-keymap.p/src_compose_parser.c.o -c ../src/compose/parser.c",
+    "file": "../src/compose/parser.c",
+    "output": "compile-keymap.p/src_compose_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_compose_paths.c.o -MF compile-keymap.p/src_compose_paths.c.o.d -o compile-keymap.p/src_compose_paths.c.o -c ../src/compose/paths.c",
+    "file": "../src/compose/paths.c",
+    "output": "compile-keymap.p/src_compose_paths.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_compose_state.c.o -MF compile-keymap.p/src_compose_state.c.o.d -o compile-keymap.p/src_compose_state.c.o -c ../src/compose/state.c",
+    "file": "../src/compose/state.c",
+    "output": "compile-keymap.p/src_compose_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_compose_table.c.o -MF compile-keymap.p/src_compose_table.c.o.d -o compile-keymap.p/src_compose_table.c.o -c ../src/compose/table.c",
+    "file": "../src/compose/table.c",
+    "output": "compile-keymap.p/src_compose_table.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_action.c.o -MF compile-keymap.p/src_xkbcomp_action.c.o.d -o compile-keymap.p/src_xkbcomp_action.c.o -c ../src/xkbcomp/action.c",
+    "file": "../src/xkbcomp/action.c",
+    "output": "compile-keymap.p/src_xkbcomp_action.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_ast-build.c.o -MF compile-keymap.p/src_xkbcomp_ast-build.c.o.d -o compile-keymap.p/src_xkbcomp_ast-build.c.o -c ../src/xkbcomp/ast-build.c",
+    "file": "../src/xkbcomp/ast-build.c",
+    "output": "compile-keymap.p/src_xkbcomp_ast-build.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_compat.c.o -MF compile-keymap.p/src_xkbcomp_compat.c.o.d -o compile-keymap.p/src_xkbcomp_compat.c.o -c ../src/xkbcomp/compat.c",
+    "file": "../src/xkbcomp/compat.c",
+    "output": "compile-keymap.p/src_xkbcomp_compat.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_expr.c.o -MF compile-keymap.p/src_xkbcomp_expr.c.o.d -o compile-keymap.p/src_xkbcomp_expr.c.o -c ../src/xkbcomp/expr.c",
+    "file": "../src/xkbcomp/expr.c",
+    "output": "compile-keymap.p/src_xkbcomp_expr.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_include.c.o -MF compile-keymap.p/src_xkbcomp_include.c.o.d -o compile-keymap.p/src_xkbcomp_include.c.o -c ../src/xkbcomp/include.c",
+    "file": "../src/xkbcomp/include.c",
+    "output": "compile-keymap.p/src_xkbcomp_include.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_keycodes.c.o -MF compile-keymap.p/src_xkbcomp_keycodes.c.o.d -o compile-keymap.p/src_xkbcomp_keycodes.c.o -c ../src/xkbcomp/keycodes.c",
+    "file": "../src/xkbcomp/keycodes.c",
+    "output": "compile-keymap.p/src_xkbcomp_keycodes.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_keymap.c.o -MF compile-keymap.p/src_xkbcomp_keymap.c.o.d -o compile-keymap.p/src_xkbcomp_keymap.c.o -c ../src/xkbcomp/keymap.c",
+    "file": "../src/xkbcomp/keymap.c",
+    "output": "compile-keymap.p/src_xkbcomp_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_keymap-dump.c.o -MF compile-keymap.p/src_xkbcomp_keymap-dump.c.o.d -o compile-keymap.p/src_xkbcomp_keymap-dump.c.o -c ../src/xkbcomp/keymap-dump.c",
+    "file": "../src/xkbcomp/keymap-dump.c",
+    "output": "compile-keymap.p/src_xkbcomp_keymap-dump.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_keywords.c.o -MF compile-keymap.p/src_xkbcomp_keywords.c.o.d -o compile-keymap.p/src_xkbcomp_keywords.c.o -c ../src/xkbcomp/keywords.c",
+    "file": "../src/xkbcomp/keywords.c",
+    "output": "compile-keymap.p/src_xkbcomp_keywords.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_rules.c.o -MF compile-keymap.p/src_xkbcomp_rules.c.o.d -o compile-keymap.p/src_xkbcomp_rules.c.o -c ../src/xkbcomp/rules.c",
+    "file": "../src/xkbcomp/rules.c",
+    "output": "compile-keymap.p/src_xkbcomp_rules.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_scanner.c.o -MF compile-keymap.p/src_xkbcomp_scanner.c.o.d -o compile-keymap.p/src_xkbcomp_scanner.c.o -c ../src/xkbcomp/scanner.c",
+    "file": "../src/xkbcomp/scanner.c",
+    "output": "compile-keymap.p/src_xkbcomp_scanner.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_symbols.c.o -MF compile-keymap.p/src_xkbcomp_symbols.c.o.d -o compile-keymap.p/src_xkbcomp_symbols.c.o -c ../src/xkbcomp/symbols.c",
+    "file": "../src/xkbcomp/symbols.c",
+    "output": "compile-keymap.p/src_xkbcomp_symbols.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_types.c.o -MF compile-keymap.p/src_xkbcomp_types.c.o.d -o compile-keymap.p/src_xkbcomp_types.c.o -c ../src/xkbcomp/types.c",
+    "file": "../src/xkbcomp/types.c",
+    "output": "compile-keymap.p/src_xkbcomp_types.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_vmod.c.o -MF compile-keymap.p/src_xkbcomp_vmod.c.o.d -o compile-keymap.p/src_xkbcomp_vmod.c.o -c ../src/xkbcomp/vmod.c",
+    "file": "../src/xkbcomp/vmod.c",
+    "output": "compile-keymap.p/src_xkbcomp_vmod.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_xkbcomp_xkbcomp.c.o -MF compile-keymap.p/src_xkbcomp_xkbcomp.c.o.d -o compile-keymap.p/src_xkbcomp_xkbcomp.c.o -c ../src/xkbcomp/xkbcomp.c",
+    "file": "../src/xkbcomp/xkbcomp.c",
+    "output": "compile-keymap.p/src_xkbcomp_xkbcomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_atom.c.o -MF compile-keymap.p/src_atom.c.o.d -o compile-keymap.p/src_atom.c.o -c ../src/atom.c",
+    "file": "../src/atom.c",
+    "output": "compile-keymap.p/src_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_context.c.o -MF compile-keymap.p/src_context.c.o.d -o compile-keymap.p/src_context.c.o -c ../src/context.c",
+    "file": "../src/context.c",
+    "output": "compile-keymap.p/src_context.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_context-priv.c.o -MF compile-keymap.p/src_context-priv.c.o.d -o compile-keymap.p/src_context-priv.c.o -c ../src/context-priv.c",
+    "file": "../src/context-priv.c",
+    "output": "compile-keymap.p/src_context-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_keysym.c.o -MF compile-keymap.p/src_keysym.c.o.d -o compile-keymap.p/src_keysym.c.o -c ../src/keysym.c",
+    "file": "../src/keysym.c",
+    "output": "compile-keymap.p/src_keysym.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_keysym-utf.c.o -MF compile-keymap.p/src_keysym-utf.c.o.d -o compile-keymap.p/src_keysym-utf.c.o -c ../src/keysym-utf.c",
+    "file": "../src/keysym-utf.c",
+    "output": "compile-keymap.p/src_keysym-utf.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_keymap.c.o -MF compile-keymap.p/src_keymap.c.o.d -o compile-keymap.p/src_keymap.c.o -c ../src/keymap.c",
+    "file": "../src/keymap.c",
+    "output": "compile-keymap.p/src_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_keymap-priv.c.o -MF compile-keymap.p/src_keymap-priv.c.o.d -o compile-keymap.p/src_keymap-priv.c.o -c ../src/keymap-priv.c",
+    "file": "../src/keymap-priv.c",
+    "output": "compile-keymap.p/src_keymap-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_state.c.o -MF compile-keymap.p/src_state.c.o.d -o compile-keymap.p/src_state.c.o -c ../src/state.c",
+    "file": "../src/state.c",
+    "output": "compile-keymap.p/src_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_text.c.o -MF compile-keymap.p/src_text.c.o.d -o compile-keymap.p/src_text.c.o -c ../src/text.c",
+    "file": "../src/text.c",
+    "output": "compile-keymap.p/src_text.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_utf8.c.o -MF compile-keymap.p/src_utf8.c.o.d -o compile-keymap.p/src_utf8.c.o -c ../src/utf8.c",
+    "file": "../src/utf8.c",
+    "output": "compile-keymap.p/src_utf8.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompile-keymap.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -DENABLE_PRIVATE_APIS -MD -MQ compile-keymap.p/src_utils.c.o -MF compile-keymap.p/src_utils.c.o.d -o compile-keymap.p/src_utils.c.o -c ../src/utils.c",
+    "file": "../src/utils.c",
+    "output": "compile-keymap.p/src_utils.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Icompose.p -I. -I.. -I../src -I../include -I../tools -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ compose.p/tools_compose.c.o -MF compose.p/tools_compose.c.o.d -o compose.p/tools_compose.c.o -c ../tools/compose.c",
+    "file": "../tools/compose.c",
+    "output": "compose.p/tools_compose.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-how-to-type.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-how-to-type.p/tools_how-to-type.c.o -MF xkbcli-how-to-type.p/tools_how-to-type.c.o.d -o xkbcli-how-to-type.p/tools_how-to-type.c.o -c ../tools/how-to-type.c",
+    "file": "../tools/how-to-type.c",
+    "output": "xkbcli-how-to-type.p/tools_how-to-type.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-interactive-evdev.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-interactive-evdev.p/tools_interactive-evdev.c.o -MF xkbcli-interactive-evdev.p/tools_interactive-evdev.c.o.d -o xkbcli-interactive-evdev.p/tools_interactive-evdev.c.o -c ../tools/interactive-evdev.c",
+    "file": "../tools/interactive-evdev.c",
+    "output": "xkbcli-interactive-evdev.p/tools_interactive-evdev.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-interactive-x11.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-interactive-x11.p/tools_interactive-x11.c.o -MF xkbcli-interactive-x11.p/tools_interactive-x11.c.o.d -o xkbcli-interactive-x11.p/tools_interactive-x11.c.o -c ../tools/interactive-x11.c",
+    "file": "../tools/interactive-x11.c",
+    "output": "xkbcli-interactive-x11.p/tools_interactive-x11.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-interactive-wayland.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-interactive-wayland.p/meson-generated_xdg-shell-protocol.c.o -MF xkbcli-interactive-wayland.p/meson-generated_xdg-shell-protocol.c.o.d -o xkbcli-interactive-wayland.p/meson-generated_xdg-shell-protocol.c.o -c xkbcli-interactive-wayland.p/xdg-shell-protocol.c",
+    "file": "xkbcli-interactive-wayland.p/xdg-shell-protocol.c",
+    "output": "xkbcli-interactive-wayland.p/meson-generated_xdg-shell-protocol.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-interactive-wayland.p -I. -I.. -I../tools -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-interactive-wayland.p/tools_interactive-wayland.c.o -MF xkbcli-interactive-wayland.p/tools_interactive-wayland.c.o.d -o xkbcli-interactive-wayland.p/tools_interactive-wayland.c.o -c ../tools/interactive-wayland.c",
+    "file": "../tools/interactive-wayland.c",
+    "output": "xkbcli-interactive-wayland.p/tools_interactive-wayland.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ixkbcli-list.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ xkbcli-list.p/tools_registry-list.c.o -MF xkbcli-list.p/tools_registry-list.c.o.d -o xkbcli-list.p/tools_registry-list.c.o -c ../tools/registry-list.c",
+    "file": "../tools/registry-list.c",
+    "output": "xkbcli-list.p/tools_registry-list.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/meson-generated_parser.c.o -MF libxkbcommon-test-internal.a.p/meson-generated_parser.c.o.d -o libxkbcommon-test-internal.a.p/meson-generated_parser.c.o -c libxkbcommon-test-internal.a.p/parser.c",
+    "file": "libxkbcommon-test-internal.a.p/parser.c",
+    "output": "libxkbcommon-test-internal.a.p/meson-generated_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/test_common.c.o -MF libxkbcommon-test-internal.a.p/test_common.c.o.d -o libxkbcommon-test-internal.a.p/test_common.c.o -c ../test/common.c",
+    "file": "../test/common.c",
+    "output": "libxkbcommon-test-internal.a.p/test_common.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/bench_bench.c.o -MF libxkbcommon-test-internal.a.p/bench_bench.c.o.d -o libxkbcommon-test-internal.a.p/bench_bench.c.o -c ../bench/bench.c",
+    "file": "../bench/bench.c",
+    "output": "libxkbcommon-test-internal.a.p/bench_bench.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_compose_parser.c.o -MF libxkbcommon-test-internal.a.p/src_compose_parser.c.o.d -o libxkbcommon-test-internal.a.p/src_compose_parser.c.o -c ../src/compose/parser.c",
+    "file": "../src/compose/parser.c",
+    "output": "libxkbcommon-test-internal.a.p/src_compose_parser.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_compose_paths.c.o -MF libxkbcommon-test-internal.a.p/src_compose_paths.c.o.d -o libxkbcommon-test-internal.a.p/src_compose_paths.c.o -c ../src/compose/paths.c",
+    "file": "../src/compose/paths.c",
+    "output": "libxkbcommon-test-internal.a.p/src_compose_paths.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_compose_state.c.o -MF libxkbcommon-test-internal.a.p/src_compose_state.c.o.d -o libxkbcommon-test-internal.a.p/src_compose_state.c.o -c ../src/compose/state.c",
+    "file": "../src/compose/state.c",
+    "output": "libxkbcommon-test-internal.a.p/src_compose_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_compose_table.c.o -MF libxkbcommon-test-internal.a.p/src_compose_table.c.o.d -o libxkbcommon-test-internal.a.p/src_compose_table.c.o -c ../src/compose/table.c",
+    "file": "../src/compose/table.c",
+    "output": "libxkbcommon-test-internal.a.p/src_compose_table.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_action.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_action.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_action.c.o -c ../src/xkbcomp/action.c",
+    "file": "../src/xkbcomp/action.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_action.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_ast-build.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_ast-build.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_ast-build.c.o -c ../src/xkbcomp/ast-build.c",
+    "file": "../src/xkbcomp/ast-build.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_ast-build.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_compat.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_compat.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_compat.c.o -c ../src/xkbcomp/compat.c",
+    "file": "../src/xkbcomp/compat.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_compat.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_expr.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_expr.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_expr.c.o -c ../src/xkbcomp/expr.c",
+    "file": "../src/xkbcomp/expr.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_expr.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_include.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_include.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_include.c.o -c ../src/xkbcomp/include.c",
+    "file": "../src/xkbcomp/include.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_include.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_keycodes.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_keycodes.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_keycodes.c.o -c ../src/xkbcomp/keycodes.c",
+    "file": "../src/xkbcomp/keycodes.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_keycodes.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_keymap.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_keymap.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_keymap.c.o -c ../src/xkbcomp/keymap.c",
+    "file": "../src/xkbcomp/keymap.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_keymap-dump.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_keymap-dump.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_keymap-dump.c.o -c ../src/xkbcomp/keymap-dump.c",
+    "file": "../src/xkbcomp/keymap-dump.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_keymap-dump.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_keywords.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_keywords.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_keywords.c.o -c ../src/xkbcomp/keywords.c",
+    "file": "../src/xkbcomp/keywords.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_keywords.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_rules.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_rules.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_rules.c.o -c ../src/xkbcomp/rules.c",
+    "file": "../src/xkbcomp/rules.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_rules.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_scanner.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_scanner.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_scanner.c.o -c ../src/xkbcomp/scanner.c",
+    "file": "../src/xkbcomp/scanner.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_scanner.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_symbols.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_symbols.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_symbols.c.o -c ../src/xkbcomp/symbols.c",
+    "file": "../src/xkbcomp/symbols.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_symbols.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_types.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_types.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_types.c.o -c ../src/xkbcomp/types.c",
+    "file": "../src/xkbcomp/types.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_types.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_vmod.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_vmod.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_vmod.c.o -c ../src/xkbcomp/vmod.c",
+    "file": "../src/xkbcomp/vmod.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_vmod.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_xkbcomp_xkbcomp.c.o -MF libxkbcommon-test-internal.a.p/src_xkbcomp_xkbcomp.c.o.d -o libxkbcommon-test-internal.a.p/src_xkbcomp_xkbcomp.c.o -c ../src/xkbcomp/xkbcomp.c",
+    "file": "../src/xkbcomp/xkbcomp.c",
+    "output": "libxkbcommon-test-internal.a.p/src_xkbcomp_xkbcomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_atom.c.o -MF libxkbcommon-test-internal.a.p/src_atom.c.o.d -o libxkbcommon-test-internal.a.p/src_atom.c.o -c ../src/atom.c",
+    "file": "../src/atom.c",
+    "output": "libxkbcommon-test-internal.a.p/src_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_context.c.o -MF libxkbcommon-test-internal.a.p/src_context.c.o.d -o libxkbcommon-test-internal.a.p/src_context.c.o -c ../src/context.c",
+    "file": "../src/context.c",
+    "output": "libxkbcommon-test-internal.a.p/src_context.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_context-priv.c.o -MF libxkbcommon-test-internal.a.p/src_context-priv.c.o.d -o libxkbcommon-test-internal.a.p/src_context-priv.c.o -c ../src/context-priv.c",
+    "file": "../src/context-priv.c",
+    "output": "libxkbcommon-test-internal.a.p/src_context-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_keysym.c.o -MF libxkbcommon-test-internal.a.p/src_keysym.c.o.d -o libxkbcommon-test-internal.a.p/src_keysym.c.o -c ../src/keysym.c",
+    "file": "../src/keysym.c",
+    "output": "libxkbcommon-test-internal.a.p/src_keysym.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_keysym-utf.c.o -MF libxkbcommon-test-internal.a.p/src_keysym-utf.c.o.d -o libxkbcommon-test-internal.a.p/src_keysym-utf.c.o -c ../src/keysym-utf.c",
+    "file": "../src/keysym-utf.c",
+    "output": "libxkbcommon-test-internal.a.p/src_keysym-utf.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_keymap.c.o -MF libxkbcommon-test-internal.a.p/src_keymap.c.o.d -o libxkbcommon-test-internal.a.p/src_keymap.c.o -c ../src/keymap.c",
+    "file": "../src/keymap.c",
+    "output": "libxkbcommon-test-internal.a.p/src_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_keymap-priv.c.o -MF libxkbcommon-test-internal.a.p/src_keymap-priv.c.o.d -o libxkbcommon-test-internal.a.p/src_keymap-priv.c.o -c ../src/keymap-priv.c",
+    "file": "../src/keymap-priv.c",
+    "output": "libxkbcommon-test-internal.a.p/src_keymap-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_state.c.o -MF libxkbcommon-test-internal.a.p/src_state.c.o.d -o libxkbcommon-test-internal.a.p/src_state.c.o -c ../src/state.c",
+    "file": "../src/state.c",
+    "output": "libxkbcommon-test-internal.a.p/src_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_text.c.o -MF libxkbcommon-test-internal.a.p/src_text.c.o.d -o libxkbcommon-test-internal.a.p/src_text.c.o -c ../src/text.c",
+    "file": "../src/text.c",
+    "output": "libxkbcommon-test-internal.a.p/src_text.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_utf8.c.o -MF libxkbcommon-test-internal.a.p/src_utf8.c.o.d -o libxkbcommon-test-internal.a.p/src_utf8.c.o -c ../src/utf8.c",
+    "file": "../src/utf8.c",
+    "output": "libxkbcommon-test-internal.a.p/src_utf8.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-test-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-test-internal.a.p/src_utils.c.o -MF libxkbcommon-test-internal.a.p/src_utils.c.o.d -o libxkbcommon-test-internal.a.p/src_utils.c.o -c ../src/utils.c",
+    "file": "../src/utils.c",
+    "output": "libxkbcommon-test-internal.a.p/src_utils.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_x11_keymap.c.o -MF libxkbcommon-x11-internal.a.p/src_x11_keymap.c.o.d -o libxkbcommon-x11-internal.a.p/src_x11_keymap.c.o -c ../src/x11/keymap.c",
+    "file": "../src/x11/keymap.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_x11_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_x11_state.c.o -MF libxkbcommon-x11-internal.a.p/src_x11_state.c.o.d -o libxkbcommon-x11-internal.a.p/src_x11_state.c.o -c ../src/x11/state.c",
+    "file": "../src/x11/state.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_x11_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_x11_util.c.o -MF libxkbcommon-x11-internal.a.p/src_x11_util.c.o.d -o libxkbcommon-x11-internal.a.p/src_x11_util.c.o -c ../src/x11/util.c",
+    "file": "../src/x11/util.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_x11_util.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_context-priv.c.o -MF libxkbcommon-x11-internal.a.p/src_context-priv.c.o.d -o libxkbcommon-x11-internal.a.p/src_context-priv.c.o -c ../src/context-priv.c",
+    "file": "../src/context-priv.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_context-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_keymap-priv.c.o -MF libxkbcommon-x11-internal.a.p/src_keymap-priv.c.o.d -o libxkbcommon-x11-internal.a.p/src_keymap-priv.c.o -c ../src/keymap-priv.c",
+    "file": "../src/keymap-priv.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_keymap-priv.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ilibxkbcommon-x11-internal.a.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -fPIC -MD -MQ libxkbcommon-x11-internal.a.p/src_atom.c.o -MF libxkbcommon-x11-internal.a.p/src_atom.c.o.d -o libxkbcommon-x11-internal.a.p/src_atom.c.o -c ../src/atom.c",
+    "file": "../src/atom.c",
+    "output": "libxkbcommon-x11-internal.a.p/src_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-keysym.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-keysym.p/test_keysym.c.o -MF test-keysym.p/test_keysym.c.o.d -o test-keysym.p/test_keysym.c.o -c ../test/keysym.c",
+    "file": "../test/keysym.c",
+    "output": "test-keysym.p/test_keysym.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-keymap.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-keymap.p/test_keymap.c.o -MF test-keymap.p/test_keymap.c.o.d -o test-keymap.p/test_keymap.c.o -c ../test/keymap.c",
+    "file": "../test/keymap.c",
+    "output": "test-keymap.p/test_keymap.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-filecomp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-filecomp.p/test_filecomp.c.o -MF test-filecomp.p/test_filecomp.c.o.d -o test-filecomp.p/test_filecomp.c.o -c ../test/filecomp.c",
+    "file": "../test/filecomp.c",
+    "output": "test-filecomp.p/test_filecomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-context.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-context.p/test_context.c.o -MF test-context.p/test_context.c.o.d -o test-context.p/test_context.c.o -c ../test/context.c",
+    "file": "../test/context.c",
+    "output": "test-context.p/test_context.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-rules-file.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-rules-file.p/test_rules-file.c.o -MF test-rules-file.p/test_rules-file.c.o.d -o test-rules-file.p/test_rules-file.c.o -c ../test/rules-file.c",
+    "file": "../test/rules-file.c",
+    "output": "test-rules-file.p/test_rules-file.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-rules-file-includes.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-rules-file-includes.p/test_rules-file-includes.c.o -MF test-rules-file-includes.p/test_rules-file-includes.c.o.d -o test-rules-file-includes.p/test_rules-file-includes.c.o -c ../test/rules-file-includes.c",
+    "file": "../test/rules-file-includes.c",
+    "output": "test-rules-file-includes.p/test_rules-file-includes.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-stringcomp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-stringcomp.p/test_stringcomp.c.o -MF test-stringcomp.p/test_stringcomp.c.o.d -o test-stringcomp.p/test_stringcomp.c.o -c ../test/stringcomp.c",
+    "file": "../test/stringcomp.c",
+    "output": "test-stringcomp.p/test_stringcomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-buffercomp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-buffercomp.p/test_buffercomp.c.o -MF test-buffercomp.p/test_buffercomp.c.o.d -o test-buffercomp.p/test_buffercomp.c.o -c ../test/buffercomp.c",
+    "file": "../test/buffercomp.c",
+    "output": "test-buffercomp.p/test_buffercomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-log.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-log.p/test_log.c.o -MF test-log.p/test_log.c.o.d -o test-log.p/test_log.c.o -c ../test/log.c",
+    "file": "../test/log.c",
+    "output": "test-log.p/test_log.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-atom.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-atom.p/test_atom.c.o -MF test-atom.p/test_atom.c.o.d -o test-atom.p/test_atom.c.o -c ../test/atom.c",
+    "file": "../test/atom.c",
+    "output": "test-atom.p/test_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-utf8.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-utf8.p/test_utf8.c.o -MF test-utf8.p/test_utf8.c.o.d -o test-utf8.p/test_utf8.c.o -c ../test/utf8.c",
+    "file": "../test/utf8.c",
+    "output": "test-utf8.p/test_utf8.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-state.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-state.p/test_state.c.o -MF test-state.p/test_state.c.o.d -o test-state.p/test_state.c.o -c ../test/state.c",
+    "file": "../test/state.c",
+    "output": "test-state.p/test_state.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-keyseq.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-keyseq.p/test_keyseq.c.o -MF test-keyseq.p/test_keyseq.c.o.d -o test-keyseq.p/test_keyseq.c.o -c ../test/keyseq.c",
+    "file": "../test/keyseq.c",
+    "output": "test-keyseq.p/test_keyseq.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-rulescomp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-rulescomp.p/test_rulescomp.c.o -MF test-rulescomp.p/test_rulescomp.c.o.d -o test-rulescomp.p/test_rulescomp.c.o -c ../test/rulescomp.c",
+    "file": "../test/rulescomp.c",
+    "output": "test-rulescomp.p/test_rulescomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-compose.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-compose.p/test_compose.c.o -MF test-compose.p/test_compose.c.o.d -o test-compose.p/test_compose.c.o -c ../test/compose.c",
+    "file": "../test/compose.c",
+    "output": "test-compose.p/test_compose.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-utils.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-utils.p/test_utils.c.o -MF test-utils.p/test_utils.c.o.d -o test-utils.p/test_utils.c.o -c ../test/utils.c",
+    "file": "../test/utils.c",
+    "output": "test-utils.p/test_utils.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-x11.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-x11.p/test_x11.c.o -MF test-x11.p/test_x11.c.o.d -o test-x11.p/test_x11.c.o -c ../test/x11.c",
+    "file": "../test/x11.c",
+    "output": "test-x11.p/test_x11.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-x11comp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-x11comp.p/test_x11comp.c.o -MF test-x11comp.p/test_x11comp.c.o.d -o test-x11comp.p/test_x11comp.c.o -c ../test/x11comp.c",
+    "file": "../test/x11comp.c",
+    "output": "test-x11comp.p/test_x11comp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Itest-registry.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ test-registry.p/test_registry.c.o -MF test-registry.p/test_registry.c.o.d -o test-registry.p/test_registry.c.o -c ../test/registry.c",
+    "file": "../test/registry.c",
+    "output": "test-registry.p/test_registry.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ifuzz-keymap.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ fuzz-keymap.p/fuzz_keymap_target.c.o -MF fuzz-keymap.p/fuzz_keymap_target.c.o.d -o fuzz-keymap.p/fuzz_keymap_target.c.o -c ../fuzz/keymap/target.c",
+    "file": "../fuzz/keymap/target.c",
+    "output": "fuzz-keymap.p/fuzz_keymap_target.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ifuzz-compose.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ fuzz-compose.p/fuzz_compose_target.c.o -MF fuzz-compose.p/fuzz_compose_target.c.o.d -o fuzz-compose.p/fuzz_compose_target.c.o -c ../fuzz/compose/target.c",
+    "file": "../fuzz/compose/target.c",
+    "output": "fuzz-compose.p/fuzz_compose_target.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-key-proc.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-key-proc.p/bench_key-proc.c.o -MF bench-key-proc.p/bench_key-proc.c.o.d -o bench-key-proc.p/bench_key-proc.c.o -c ../bench/key-proc.c",
+    "file": "../bench/key-proc.c",
+    "output": "bench-key-proc.p/bench_key-proc.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-rules.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-rules.p/bench_rules.c.o -MF bench-rules.p/bench_rules.c.o.d -o bench-rules.p/bench_rules.c.o -c ../bench/rules.c",
+    "file": "../bench/rules.c",
+    "output": "bench-rules.p/bench_rules.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-rulescomp.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-rulescomp.p/bench_rulescomp.c.o -MF bench-rulescomp.p/bench_rulescomp.c.o.d -o bench-rulescomp.p/bench_rulescomp.c.o -c ../bench/rulescomp.c",
+    "file": "../bench/rulescomp.c",
+    "output": "bench-rulescomp.p/bench_rulescomp.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-compose.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-compose.p/bench_compose.c.o -MF bench-compose.p/bench_compose.c.o.d -o bench-compose.p/bench_compose.c.o -c ../bench/compose.c",
+    "file": "../bench/compose.c",
+    "output": "bench-compose.p/bench_compose.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-atom.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-atom.p/bench_atom.c.o -MF bench-atom.p/bench_atom.c.o.d -o bench-atom.p/bench_atom.c.o -c ../bench/atom.c",
+    "file": "../bench/atom.c",
+    "output": "bench-atom.p/bench_atom.c.o"
+  },
+  {
+    "directory": "/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin",
+    "command": "gcc -Ibench-x11.p -I. -I.. -I../src -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -g -fno-strict-aliasing -fsanitize-undefined-trap-on-error -Wno-unused-parameter -Wno-missing-field-initializers -Wpointer-arith -Wmissing-declarations -Wformat=2 -Wstrict-prototypes -Wmissing-prototypes -Wnested-externs -Wbad-function-cast -Wshadow -Wlogical-op -Wdate-time -Wwrite-strings -MD -MQ bench-x11.p/bench_x11.c.o -MF bench-x11.p/bench_x11.c.o.d -o bench-x11.p/bench_x11.c.o -c ../bench/x11.c",
+    "file": "../bench/x11.c",
+    "output": "bench-x11.p/bench_x11.c.o"
+  }
+]

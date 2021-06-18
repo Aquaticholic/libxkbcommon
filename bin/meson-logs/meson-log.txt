@@ -1,0 +1,729 @@
+Build started at 2021-06-14T13:32:22.982357
+Main binary: /usr/bin/python3
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon
+Build dir: /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin
+Build type: native build
+Project name: libxkbcommon
+Project version: 1.3.0
+Using 'CC' from environment with value: 'gcc'
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: gcc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.exe
+C compiler for the host machine: gcc (gcc 10.3.0 "gcc (Ubuntu 10.3.0-1ubuntu1) 10.3.0")
+C linker for the host machine: gcc ld.bfd 2.36.1
+None of 'AR' are defined in the environment, not changing global flags.
+Using 'CC' from environment with value: 'gcc'
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: gcc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/sanitycheckc.exe
+C compiler for the build machine: gcc (gcc 10.3.0 "gcc (Ubuntu 10.3.0-1ubuntu1) 10.3.0")
+C linker for the build machine: gcc ld.bfd 2.36.1
+None of 'AR' are defined in the environment, not changing global flags.
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx9egbmcj
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx9egbmcj/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx9egbmcj/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fno-strict-aliasing 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -fno-strict-aliasing: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpko4nr5q4
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpko4nr5q4/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpko4nr5q4/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fsanitize-undefined-trap-on-error 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -fsanitize-undefined-trap-on-error: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp0_r4x60v
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp0_r4x60v/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp0_r4x60v/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wunused-parameter -Wno-unused-parameter 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-unused-parameter: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpiiy62tdg
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpiiy62tdg/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpiiy62tdg/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wmissing-field-initializers -Wno-missing-field-initializers 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-missing-field-initializers: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp1vfzhtt0
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp1vfzhtt0/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp1vfzhtt0/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wpointer-arith 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wpointer-arith: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp8h2rvyqn
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp8h2rvyqn/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp8h2rvyqn/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wmissing-declarations 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wmissing-declarations: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx2hcyfb6
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx2hcyfb6/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpx2hcyfb6/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wformat=2 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wformat=2: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpsxjw373z
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpsxjw373z/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpsxjw373z/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wstrict-prototypes 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wstrict-prototypes: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpmxgb4yc3
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpmxgb4yc3/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpmxgb4yc3/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wmissing-prototypes 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wmissing-prototypes: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpcc95magx
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpcc95magx/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpcc95magx/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wnested-externs 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wnested-externs: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp911o8hph
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp911o8hph/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp911o8hph/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wbad-function-cast 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wbad-function-cast: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpkmopfia4
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpkmopfia4/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpkmopfia4/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wshadow 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wshadow: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpklr3akrg
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpklr3akrg/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpklr3akrg/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wlogical-op 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wlogical-op: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpb3s3lr88
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpb3s3lr88/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpb3s3lr88/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wdate-time 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wdate-time: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpuz4_m7o4
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpuz4_m7o4/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpuz4_m7o4/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wwrite-strings 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wwrite-strings: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpunm0tpvo
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpunm0tpvo/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpunm0tpvo/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wdocumentation-deprecated-sync -Wno-documentation-deprecated-sync 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ gcc: error: unrecognized command-line option '-Wdocumentation-deprecated-sync'
+
+Compiler for C supports arguments -Wno-documentation-deprecated-sync: NO 
+meson.build:36: WARNING: Consider using the built-in option for sanitizers instead of using "-fsanitize-undefined-trap-on-error".
+Pkg-config binary for MachineChoice.HOST is not cached.
+None of 'PKG_CONFIG' are defined in the environment, not changing global flags.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'xkeyboard-config' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion xkeyboard-config` -> 0
+2.29
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags xkeyboard-config` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xkeyboard-config --libs` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xkeyboard-config --libs` -> 0
+
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency xkeyboard-config found: YES 2.29
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --variable=xkb_base xkeyboard-config` -> 0
+/usr/share/X11/xkb
+Got pkgconfig variable xkb_base : /usr/share/X11/xkb
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp1v26s_f6
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp1v26s_f6/testfile.c -pipe -E -P -D_FILE_OFFSET_BITS=64 -P -O0 -std=c11 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("unistd.h")
+          #error "Header 'unistd.h' could not be found"
+         #endif
+        #else
+         #include <unistd.h>
+        #endif
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Has header "unistd.h" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp854dobjl
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp854dobjl/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp854dobjl/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ int main(){if(__builtin_expect(1<0,0)){}}
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking if "__builtin_expect" links: YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpwv5wu14z
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpwv5wu14z/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpwv5wu14z/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <unistd.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef eaccess
+                eaccess;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <unistd.h> has symbol "eaccess" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpfw8mfmao
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpfw8mfmao/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpfw8mfmao/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <unistd.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef euidaccess
+                euidaccess;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <unistd.h> has symbol "euidaccess" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpnaz73l17
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpnaz73l17/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpnaz73l17/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ 
+        #include <sys/mman.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef mmap
+                mmap;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <sys/mman.h> has symbol "mmap" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp88jp9e08
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp88jp9e08/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmp88jp9e08/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <stdlib.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef mkostemp
+                mkostemp;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <stdlib.h> has symbol "mkostemp" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpgvaknnii
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpgvaknnii/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpgvaknnii/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <fcntl.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef posix_fallocate
+                posix_fallocate;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <fcntl.h> has symbol "posix_fallocate" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpivbi5a9q
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpivbi5a9q/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpivbi5a9q/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <string.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef strndup
+                strndup;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <string.h> has symbol "strndup" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpjqaekbfl
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpjqaekbfl/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpjqaekbfl/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <stdio.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef asprintf
+                asprintf;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <stdio.h> has symbol "asprintf" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpi9lrt589
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpi9lrt589/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpi9lrt589/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <stdlib.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef secure_getenv
+                secure_getenv;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <stdlib.h> has symbol "secure_getenv" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpz4q9b486
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpz4q9b486/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpz4q9b486/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <getopt.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef getopt_long
+                getopt_long;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <getopt.h> has symbol "getopt_long" : YES 
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpztylhbic
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpztylhbic/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpztylhbic/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -std=c11 
+
+Code:
+ #define _GNU_SOURCE
+        #include <limits.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef PATH_MAX
+                PATH_MAX;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <limits.h> has symbol "PATH_MAX" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpaaasv87l
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpaaasv87l/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpaaasv87l/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -std=c11 -Wl,--version-script=/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/xkbcommon.map 
+
+Code:
+ int main(){}
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking if "-Wl,--version-script" links: YES 
+Program scripts/map-to-def found: YES (/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/scripts/map-to-def)
+Program bison found: YES (/usr/bin/bison)
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'xcb' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion xcb` -> 0
+1.14
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags xcb` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xcb --libs` -> 0
+-L/usr/lib/x86_64-linux-gnu -lxcb
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xcb --libs` -> 0
+-lxcb
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpdekze4x5
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpdekze4x5/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpdekze4x5/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ #include<stdio.h>
+        
+        int main(void) {
+            printf("%ld\n", (long)(sizeof(void *)));
+            return 0;
+        };
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Program stdout:
+
+8
+
+Program stderr:
+
+
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpggvmrq21
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpggvmrq21/testfile.c -o /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpggvmrq21/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/x86_64-linux-gnu/10/
+programs: =/usr/lib/gcc/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/bin/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/lib/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../x86_64-linux-gnu/10/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../lib/:/lib/x86_64-linux-gnu/10/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/10/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../../x86_64-linux-gnu/lib/:/usr/lib/gcc/x86_64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+Run-time dependency xcb found: YES 1.14
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'xcb-xkb' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion xcb-xkb` -> 0
+1.14
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags xcb-xkb` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xcb-xkb --libs` -> 0
+-L/usr/lib/x86_64-linux-gnu -lxcb-xkb
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config xcb-xkb --libs` -> 0
+-lxcb-xkb
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency xcb-xkb found: YES 1.14
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'libxml-2.0' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion libxml-2.0` -> 0
+2.9.2
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags libxml-2.0` -> 0
+-I/usr/include/libxml2
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libxml-2.0 --libs` -> 0
+-L/usr/lib -lxml2
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libxml-2.0 --libs` -> 0
+-lxml2
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency libxml-2.0 found: YES 2.9.2
+Running compile:
+Working directory:  /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpw4_r1ioa
+Command line:  gcc /home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin/meson-private/tmpw4_r1ioa/testfile.c -pipe -E -P -D_FILE_OFFSET_BITS=64 -P -O0 -std=c11 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("linux/input.h")
+          #error "Header 'linux/input.h' could not be found"
+         #endif
+        #else
+         #include <linux/input.h>
+        #endif
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Has header "linux/input.h" : YES 
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'wayland-client' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-client` -> 0
+1.18.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-client` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-client --libs` -> 0
+-L/usr/lib/x86_64-linux-gnu -lwayland-client
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-client --libs` -> 0
+-lwayland-client
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency wayland-client found: YES 1.18.0
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'wayland-protocols' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-protocols` -> 0
+1.20
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-protocols` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-protocols --libs` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-protocols --libs` -> 0
+
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency wayland-protocols found: YES 1.20
+Pkg-config binary for MachineChoice.BUILD is not cached.
+None of 'PKG_CONFIG' are defined in the environment, not changing global flags.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'wayland-scanner' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-scanner` -> 0
+1.18.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-scanner` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-scanner --libs` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-scanner --libs` -> 0
+
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Build-time dependency wayland-scanner found: YES 1.18.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --variable=wayland_scanner wayland-scanner` -> 0
+/usr/bin/wayland-scanner
+Got pkgconfig variable wayland_scanner : /usr/bin/wayland-scanner
+Program /usr/bin/wayland-scanner found: YES (/usr/bin/wayland-scanner)
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --variable=pkgdatadir wayland-protocols` -> 0
+//usr/share/wayland-protocols
+Got pkgconfig variable pkgdatadir : //usr/share/wayland-protocols
+Configuring xkeyboard-config-test using configuration
+Configuring test-config.h using configuration
+Adding test "keysym"
+Adding test "keymap"
+Adding test "filecomp"
+Adding test "context"
+Adding test "rules-file"
+Adding test "rules-file-includes"
+Adding test "stringcomp"
+Adding test "buffercomp"
+Adding test "log"
+Adding test "atom"
+Adding test "utf8"
+Adding test "state"
+Adding test "keyseq"
+Adding test "rulescomp"
+Adding test "compose"
+Adding test "utils"
+Program test/symbols-leak-test.py found: YES (/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/test/symbols-leak-test.py)
+Adding test "symbols-leak-test"
+Adding test "x11"
+Adding test "registry"
+Program test/tool-option-parsing.py found: YES (/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/test/tool-option-parsing.py)
+Adding test "tool-option-parsing"
+Program test/test-keysym.py found: YES (/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/test/test-keysym.py)
+Adding test "keysym-test-XF86Macro23"
+Program valgrind found: NO
+Message: valgrind not found, disabling valgrind test setup
+Adding benchmark "key-proc"
+Adding benchmark "rules"
+Adding benchmark "rulescomp"
+Adding benchmark "compose"
+Adding benchmark "atom"
+Adding benchmark "x11"
+Program doxygen found: YES (/usr/bin/doxygen)
+Program scripts/doxygen-wrapper found: YES (/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/scripts/doxygen-wrapper)
+Configuring Doxyfile using configuration
+Configuring config.h using configuration
+Build targets in project: 43
+
+Found ninja-1.10.1 at /usr/bin/ninja
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.

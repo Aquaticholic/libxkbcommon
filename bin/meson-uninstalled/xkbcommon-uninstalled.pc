@@ -1,0 +1,10 @@
+prefix=/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon/bin
+srcdir=/home/evan/Documents/Dev/Luddite-Editor/Luddite-Engine/ThirdParty/libxkbcommon
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+Name: xkbcommon
+Description: XKB API common to servers and clients
+Version: 1.3.0
+Libs: -L${prefix}/ -lxkbcommon
+Cflags: -I${prefix}/ -I${srcdir}/ -I${prefix}/src -I${srcdir}/src -I${prefix}/include -I${srcdir}/include
